@@ -1,7 +1,6 @@
 import React from "react";
 import Contact from "./Contact";
 import "./styles.css";
-import { queries } from "@testing-library/react";
 
 function Portfolio() {
   const portfolio = [

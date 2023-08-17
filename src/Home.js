@@ -20,21 +20,21 @@ function Home() {
                 
                   <img
                     src="/images/pic1.jpg"
-                    alt="Image"
+                    alt="Image1"
                     className="home-img"
                   />
                 
               </div>
               <div class="col-md-4">
-                <img src="/images/pic2.jpg" alt="Image" className="home-img" />
+                <img src="/images/pic2.jpg" alt="Image2" className="home-img" />
               </div>
             </div>
             <div class="row boxed">
               <div class="col-md-4">
-                <img src="/images/pic3.jpg" alt="Image" className="home-img" />
+                <img src="/images/pic3.jpg" alt="Image3" className="home-img" />
               </div>
               <div class="col-md-4">
-                <img src="/images/pic4.jpg" alt="Image" className="home-img" />
+                <img src="/images/pic4.jpg" alt="Image4" className="home-img" />
               </div>
               <div class="col-md-4">
                 <div class="boxes"></div>
