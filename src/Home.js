@@ -1,6 +1,6 @@
 import React from "react";
 import Contact from "./Contact";
-import "./styles.css";git comm
+import "./styles.css";
 
 function Home() {
   return (
