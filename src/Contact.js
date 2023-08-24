@@ -36,13 +36,13 @@ function Contact() {
       <div className="contact-content">
         <div className="contact-box">
           <div className="contact-item">
-            <span className="contact-value">+92 326 7749979</span>
+            <span className="contact-value">+92 344 7466951</span>
             <div className="contact-label-box">
               <span className="contact-label">P.</span>
             </div>
           </div>
           <div className="contact-item">
-            <span className="contact-value">saramahmood@gmail.com</span>
+            <span className="contact-value">saramalik6468@gmail.com</span>
             <div className="contact-label-box">
               <span className="contact-label">E.</span>
             </div>

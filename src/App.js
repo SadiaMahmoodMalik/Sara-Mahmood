@@ -6,6 +6,9 @@ import Portfolio from "./Portfolio";
 import Blogs from "./Blogs";
 import Contact from "./Contact";
 import "./styles.css";
+import { Document, Page, pdfjs } from 'react-pdf';
+import { useState } from 'react'; // For state management
+
 
 function App() {
   return (

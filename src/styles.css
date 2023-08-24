@@ -132,6 +132,7 @@ h2 {
   background: #f6ed99;
    width: 170px; /* Set the width */
   height: 150px; /* Set the height */
+  margin: 10px; /* Add margin to create equal spacing */
   @media (max-width: 768px) {
     margin: 30px;
   }
