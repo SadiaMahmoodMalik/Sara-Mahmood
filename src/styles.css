@@ -151,3 +151,17 @@ h2 {
   padding: 10px;
   
 }
+
+/* Add hover styles for portfolio links */
+.portfolio-link:hover {
+  border-bottom: 2px solid #736262;
+}
+
+/* Add hover styles for blog links */
+.blog-link:hover {
+  border-bottom: 2px solid #736262;
+}
+
+.my-links-container a:hover {
+  border-bottom: 2px solid #736262;
+}
